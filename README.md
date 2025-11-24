@@ -189,7 +189,7 @@ Manfaat:
 - Mengurangi appointment hangus akibat lupa
 - Meningkatkan pengalaman pengguna & performa sistem
 - Memperbaiki kualitas layanan berbasis feedback
-- 
+
 Integrasi yang memungkinkan:
 - Sistem	Tujuan
 - Firebase Cloud Messaging	Push notification
